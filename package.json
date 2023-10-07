@@ -1,0 +1,7 @@
+{
+    "name": "carlrondoni.github.io",
+    "version": "v1",
+    "description": "Node.js on Docker for build and dev static",
+    "author": "carlrondoni <carlrondoni@protonmail.com>",
+    "main": "app.js"
+  }
