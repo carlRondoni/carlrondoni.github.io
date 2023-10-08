@@ -1,8 +1,0 @@
-version: '3'
-
-services:
-  carlweb:
-    build: .
-    container_name: carlweb
-    volumes:
-      - ./:/app
