@@ -13,7 +13,7 @@ body {
 }
 
 a {
-    color: $nord3;
+    color: $nord7;
     text-decoration: none;
     transition: color 1s;
 }
@@ -24,7 +24,7 @@ a:hover {
 }
 
 h1, h3 {
-    color: $nord8;
+    color: $nord10;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
@@ -33,11 +33,26 @@ a {
     font-family: 'Ubuntu', sans-serif;
 }
 
-p {
+p, .credits {
     color: $nord4;
     font-family: 'Work Sans', sans-serif;
 }
 
-blockquote {
+h4 {
     font-family: 'Pixelify Sans', sans-serif;
+    color: $nord7;
+}
+
+hr {
+    border-color: $nord3;
+}
+
+.social h4 {
+    margin-bottom: 5px;
+}
+.social a {
+    display: inline-block;
+    font-size: 24px;
+    margin-right: 5px;
+    margin-bottom: 5px;
 }
