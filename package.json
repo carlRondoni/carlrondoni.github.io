@@ -1,0 +1,44 @@
+{
+  "name": "carlrondoni.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlRondoni/carlrondoni.github.io.git"
+  },
+  "author": "Carl A. Rondoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlRondoni/carlrondoni.github.io/issues"
+  },
+  "homepage": "https://github.com/carlRondoni/carlrondoni.github.io#readme",
+  "engines": {
+    "npm": ">=9",
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.22.20",
+    "@babel/register": "^7.22.15",
+    "gulp": "^4.0.2",
+    "gulp-inject": "^5.0.5",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.69.0"
+  },
+  "babel": {
+    "presets": [
+      "@babel/env"
+    ]
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "jquery": "^3.7.1",
+    "nord": "^0.2.1"
+  }
+}
