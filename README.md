@@ -13,6 +13,3 @@ I did it with:
 TO DO:
 
 - Favicon (avatar)
-- Accordion contents
-- As an Enginner content section
-- Bio content section
