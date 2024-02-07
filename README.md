@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Basic website with plain HTML, from what I remember in my early days as a Front End Developer.
+Basic website with plain HTML, from what I remember in my last days as a Front End Developer.
 
 I did it with:
 
@@ -13,3 +13,5 @@ I did it with:
 TO DO:
 
 - Favicon (avatar)
+- update layout
+- update texts
