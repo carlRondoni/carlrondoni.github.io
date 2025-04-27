@@ -1,15 +1,16 @@
-# My Portfolio Website
+## Overview
 
-Basic website with plain HTML, from what I remember in my early days as a Front End Developer.
+This is a basic static website built with plain HTML, created as a personal practice project to explore static deployment using GitHub Pages. It serves as a reminder of my early days as a Front End Developer, using the technologies I've worked with most recently.
 
-I did it with:
+## Technologies used
 
-- npm
-- gulp + babel (uglify, rename, sass, inject)
-- sass
-- Nord color palette with Font Awesome
+- Nodejs
+- Gulp (v4) + Babel (uglify, rename, sass, inject)
+- Sass
+- Nord color palette
+- Font Awesome
 - JQuery
+- Deployment using github pages
 
-TO DO:
-
-- Favicon (avatar)
+### Note:
+This repository is not a focus of my main development work but serves as a simple project to experiment with deployment.
